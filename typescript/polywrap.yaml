@@ -1,0 +1,4 @@
+project:
+  type: plugin/typescript
+  name: example-typescript-plugin
+module: ./package.json

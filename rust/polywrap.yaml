@@ -1,0 +1,4 @@
+project:
+  type: plugin/rust
+  name: example-rust-plugin
+module: ./Cargo.toml

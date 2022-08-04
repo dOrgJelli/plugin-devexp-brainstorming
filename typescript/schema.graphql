@@ -1,0 +1,7 @@
+#import { Module } into Interface from "ens/example-interface.eth/1.0.0"
+
+type Module implements Interface_Module {
+  typescriptSpecificMethod(
+    arg: Bytes!
+  ): String!
+}

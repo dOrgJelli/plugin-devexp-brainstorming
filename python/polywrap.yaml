@@ -1,0 +1,5 @@
+project:
+  type: plugin/python
+  name: example-python-plugin
+schema: ./schema.graphql
+module: python-project

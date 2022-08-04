@@ -1,0 +1,4 @@
+project:
+  type: interface
+  name: example-interface
+schema: ./schema.graphql
